@@ -1,0 +1,43 @@
+id: 2449889bd7cb40f58336332d1832f041
+annotation_type: index
+revision: '00001'
+annotations:
+  90532c818b1f4040afbc7e3dbf43d09a:
+    base: 6A8F.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 160
+    - title: Preface
+      span:
+        start: 161
+        end: 1344
+    - title: THE MANTRA SPOKEN BY ĀRYA AVALOKITEŚVARA
+      span:
+        start: 1345
+        end: 1992
+    - title: DHĀRAṆĪPADA OF GUHYAPATI VAJRAPĀṆI
+      span:
+        start: 1993
+        end: 2652
+    - title: THE DHĀRAṆĪMANTRAPADA OF BRAHMĀ SAHAMPATI
+      span:
+        start: 2653
+        end: 3181
+    - title: DHARAṆĪPADA OF ŚAKRA DEVĀNĀMINDRA
+      span:
+        start: 3182
+        end: 3839
+    - title: THE DHARAṆĪMANTRAPADA OF THE FOUR GREAT KINGS
+      span:
+        start: 3840
+        end: 4605
+    - title: THE NĀGA KINGS
+      span:
+        start: 4606
+        end: 6419
+    - title: Colophon
+      span:
+        start: 6420
+        end: 6609

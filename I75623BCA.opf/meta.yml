@@ -1,0 +1,16 @@
+id: I75623BCA
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:03:58.385992
+last_modified: 2023-02-08 15:03:58.386098
+source_metadata:
+  title: Drāmiḍāvidyārājā
+  language: en
+bases:
+  6A8F:
+    base_file: 6A8F.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
